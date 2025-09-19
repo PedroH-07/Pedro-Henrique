@@ -8,13 +8,14 @@
 ## Hey there 👋
 
 Sou o Pedro!  
+Tenho 21 anos
 
-- Ainda Iniciante nessa área 
+- Atualmente Estudando na FIAP
 - 💻 Estudante de Ciência da Computação Segundo Semestre
-- 📚 Sempre tentando aprender para melhorar
+- 📚 Sempre buscando melhorar 
 
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+  <img src="https://i.imgur.com/Z7AzH2c.gif" width="300" alt="Anime typing gif"/>
 </div>
