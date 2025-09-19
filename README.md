@@ -17,5 +17,4 @@ Tenho 21 anos
 <br/>
 
 <div align="center">
-  <img src="https://imgur.com/gallery/typing-on-keyboard-anime-0Ba4jvi#iwatVcO"/>
-</div>
+  <img src="https://i.imgur.com/0Ba4jvi.gif" width="300" alt="Anime typing gif"/>
