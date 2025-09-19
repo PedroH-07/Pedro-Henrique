@@ -17,4 +17,4 @@ Tenho 21 anos
 <br/>
 
 <div align="center">
-  <img src="https://i.imgur.com/0Ba4jvi.gif" width="300" alt="Anime typing gif"/>
+ <img src="https://gifdb.com/images/high/hands-doing-fast-typing-animation-qu6prkiu86m4e8yc.gif" width="300" alt="Fast typing animation"/>
