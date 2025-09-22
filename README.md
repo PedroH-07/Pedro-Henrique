@@ -10,6 +10,7 @@
 Sou o Pedro!  
 Tenho 21 anos
 
+- Inglês avançado. 
 - Atualmente Estudando na FIAP
 - 💻 Estudante de Ciência da Computação Segundo Semestre
 - 📚 Sempre buscando melhorar 
